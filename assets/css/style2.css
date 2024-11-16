@@ -1,0 +1,53 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+    font-family: "Moderustic", sans-serif;
+}
+
+.moderustic{
+    font-family: "Moderustic", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+#paleta{
+    width: 100%;
+    margin-top: 5rem;
+}
+
+#btn-1, #btn-2, #btn-3, #btn-4, #btn-5, #btn-6{
+    width: 100px;
+    height: 100px;
+}
+
+#btn-1{
+    background-color: #e53e3e;
+}
+#btn-2{
+    background-color: #dd6b20;
+}
+#btn-3{
+    background-color: #faf089;
+}
+#btn-4{
+    background-color: #48bb78;
+}
+#btn-5{
+    background-color: #81e6d9;
+}
+#btn-6{
+    background-color: #d53f8c;
+}
+
+#botones{
+    display: flex;
+    flex-direction: column;
+}
+
+#caja{
+    width: 500px;
+    height: 600px;
+    margin-left: -13px;
+}
+
